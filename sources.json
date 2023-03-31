@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "jeuxvideo.com",
+    "url": "https://www.jeuxvideo.com/rss/rss-news.xml",
+    "type": "rss"
+  },
+  {
+    "id": 2,
+    "title": "canardpc.com",
+    "url": "https://www.canardpc.com/feed",
+    "type": "rss"
+  },
+  {
+    "id": 3,
+    "title": "gamekult.com",
+    "url": "https://www.gamekult.com/feed.xml",
+    "type": "rss"
+  }
+]
